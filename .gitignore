@@ -1,0 +1,7 @@
+.replit
+__pycache__
+*.pyc
+*.pyo
+.env
+*.lock
+*.toml
