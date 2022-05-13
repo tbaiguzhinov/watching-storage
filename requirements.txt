@@ -3,3 +3,4 @@ psycopg2-binary==2.9.*
 environs==9.5.0
 python-dotenv==0.20.0
 pytz==2021.1
+dj_database_url==0.5.0
